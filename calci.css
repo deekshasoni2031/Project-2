@@ -1,0 +1,122 @@
+.main{
+  width:500px;
+  height:210px;
+  margin:auto;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: grey;
+  align-items: center;
+}
+
+.main input{
+width: 480px;
+margin: 10px;
+height: 25px;
+border-radius:8px ;
+justify-content: center;
+}
+
+.line-1 button{
+  border-radius: 5px;
+  align-items: center;
+  background-color:black;
+  width: 90px;
+  height:30px;
+  color:white;
+  row-gap: 3px;
+}
+
+.line-1{
+  justify-content:space-around;
+  align-items: flex-start;
+  width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+
+}
+
+.line-2{
+  justify-content:space-around;
+  align-items: flex-start;
+  width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+
+}
+
+.line-3{
+  justify-content:space-around;
+  align-items: flex-start;
+  width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+
+}
+
+.line-4{
+  justify-content:space-around;
+  align-items: flex-start;
+  width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+
+}
+
+.line-5{
+  justify-content:space-around;
+  align-items: flex-start;
+  width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto;
+
+}
+
+.line-2 button{
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 90px;
+  height:30px;
+  color:white;
+}
+
+.line-3 button{
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 90px;
+  height:30px;
+  color:white;
+}
+
+.line-4 button{
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 90px;
+  height:30px;
+  color:white;
+}
+
+.line-5 button{
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color:black;
+  width: 120px;
+  height:30px;
+  color:white;
+}
